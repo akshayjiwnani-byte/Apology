@@ -1,5 +1,5 @@
 const pages=[
-{t:'❤️',c:'To Khushi...\n\nThis page was made for one person only.\n\nA few minutes.\nA lifetime of feelings.'},
+{t:'❤️',c:'To Khushiii...\n\nThis page was made for one person only.\n\nA few minutes.\nA lifetime of feelings.'},
 {t:'The Beginning',c:'Every time you come back into my life...'},
 {t:'',c:'Everything starts feeling normal again.'},
 {t:'',c:'I smile more.'},
