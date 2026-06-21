@@ -1,1 +1,0 @@
-function start(){document.querySelector('.hero').style.display='none';document.getElementById('story').classList.remove('hidden');window.scrollTo(0,0);}
